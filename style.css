@@ -41,15 +41,16 @@ header {
     align-items: center;
     height: 60%;
     outline: none;
-    padding: 0;
+    padding-left: 1%;
     background-color: rgb(236, 232, 232);
     border-radius: 8px;
     width: 60%;
+    margin-left: 3%;
     
 
 }
 .searchsection i{
-    padding: 1%;
+    padding: 2%;
 }
 
 .searchbar {
@@ -59,6 +60,7 @@ header {
     border: none;
     background: transparent;
     width: 100%;
+    padding-left: 2%;
 
 
 }
